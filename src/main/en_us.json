@@ -1,0 +1,87 @@
+{
+  "itemGroup.tinkersdragons.common": "Tinkers' Dragons",
+
+  "item.tinkersdragons.worldroot_nugget": "Worldroot Nugget",
+  "item.tinkersdragons.dragonheart_alloy_nugget": "Dragonheart Alloy Nugget",
+
+  "block.tinkersdragons.molten_worldroot_fluid": "Molten Worldroot",
+  "fluid.tinkersdragons.molten_worldroot": "Molten Worldroot",
+  "fluid.tinkersdragons.flowing_molten_worldroot": "Flowing Molten Worldroot",
+  "item.tinkersdragons.molten_worldroot_bucket": "Molten Worldroot Bucket",
+
+  "block.tinkersdragons.molten_ancient_dragonite_fluid": "Molten Ancient Dragonite",
+  "fluid.tinkersdragons.molten_ancient_dragonite": "Molten Ancient Dragonite",
+  "fluid.tinkersdragons.flowing_molten_ancient_dragonite": "Flowing Molten Ancient Dragonite",
+  "item.tinkersdragons.molten_ancient_dragonite_bucket": "Molten Ancient Dragonite Bucket",
+
+  "block.tinkersdragons.molten_dragonheart_fluid": "Molten Dragonheart",
+  "fluid.tinkersdragons.molten_dragonheart": "Molten Dragonheart",
+  "fluid.tinkersdragons.flowing_molten_dragonheart": "Flowing Molten Dragonheart",
+  "item.tinkersdragons.molten_dragonheart_bucket": "Molten Dragonheart Bucket",
+
+  "block.tinkersdragons.molten_dragonheart_alloy_fluid": "Molten Dragonheart Alloy",
+  "fluid.tinkersdragons.molten_dragonheart_alloy": "Molten Dragonheart Alloy",
+  "fluid.tinkersdragons.flowing_molten_dragonheart_alloy": "Flowing Molten Dragonheart Alloy",
+  "item.tinkersdragons.molten_dragonheart_alloy_bucket": "Molten Dragonheart Alloy Bucket",
+
+  "block.tinkersdragons.dragon_breath_fluid": "Dragon's Breath",
+  "fluid.tinkersdragons.dragon_breath": "Dragon's Breath",
+  "fluid.tinkersdragons.flowing_dragon_breath": "Flowing Dragon's Breath",
+  "item.tinkersdragons.dragon_breath_bucket": "Dragon's Breath Bucket",
+
+  "block.tinkersdragons.ignivorus_blood_fluid": " Ignivorus Blood",
+  "fluid.tinkersdragons.ignivorus_blood": " Ignivorus Blood",
+  "fluid.tinkersdragons.flowing_ignivorus_blood": "Flowing  Ignivorus Blood",
+  "item.tinkersdragons.ignivorus_blood_bucket": " Ignivorus Blood Bucket",
+
+  "material.tinkersdragons.draconian": "Draconian",
+  "material.tinkersdragons.draconian.flavor": "One wonders how their flesh can be as resilient as slime. Is this convergent evolution?",
+  "material.tinkersdragons.draconian.encyclopedia": "+25% damage dealt to dragon‑like mobs per level",
+
+  "material.tinkersdragons.volitans_spine": "Volitans Spine",
+  "material.tinkersdragons.volitans_spine.flavor": "A spine reeking of rot",
+  "material.tinkersdragons.volitans_spine.encyclopedia": "+25% damage dealt to dragon‑like mobs per level",
+  
+  "material.tinkersdragons.worldroot": "Worldroot",
+  "material.tinkersdragons.worldroot.flavor": "An ageless relic from time immemorial, though inferior to dragonsteel",
+  "material.tinkersdragons.worldroot.encyclopedia": "+25% damage dealt to dragon‑like mobs per level",
+  
+  "material.tinkersdragons.dragonheart_alloy": "Dragonheart Alloy",
+  "material.tinkersdragons.dragonheart_alloy.flavor": "Remnant of ancient great dragons. Its roars and draconic aura still send chills down one's spine",
+  "material.tinkersdragons.dragonheart_alloy.encyclopedia": "+1 attack & reach range, +25% critical damage",
+  "material.tinkersdragons.dragonheart_alloy.ranged": "+1 projectile power while airborne",
+  "material.tinkersdragons.dragonheart_alloy.armor": "+25 blast resistance and fire resistance",
+
+  "modifier.tinkersdragons.dragonslayer": "Dragonslayer",
+  "modifier.tinkersdragons.dragonslayer.flavor": "Only that which is as eternal as dragons may truly slay them",
+  "modifier.tinkersdragons.dragonslayer.description": "Increases damage against dragon‑like mobs",
+  "modifier.tinkersdragons.dragonslayer.attack_damage": "Damage to Dragons",
+
+  "modifier.tinkersdragons.malevolent_flesh": "Malevolent Flesh",
+  "modifier.tinkersdragons.malevolent_flesh.flavor": "Fine then. If it uses convergent evolution, so will I",
+  "modifier.tinkersdragons.malevolent_flesh.description": "Grants effects of Draconian armor",
+
+  "modifier.tinkersdragons.toxin": "Toxin",
+  "modifier.tinkersdragons.toxin.flavor": "Rot‑infused venom coating the spine",
+  "modifier.tinkersdragons.toxin.description": "Applies Blindness and Poison II",
+
+  "modifier.tinkersdragons.dragonrage": "Dragon Rage",
+  "modifier.tinkersdragons.dragonrage.flavor": "Do you dare accept the challenge?",
+  "modifier.tinkersdragons.dragonrage.description": "Increases attack range, reach range and critical damage",
+
+  "modifier.tinkersdragons.dragonsoul": "Dragon Soul",
+  "modifier.tinkersdragons.dragonsoul.flavor": "Born in flame, perish in explosion",
+  "modifier.tinkersdragons.dragonsoul.description": "Increases fire resistance and blast resistance",
+
+  "modifier.tinkersdragons.blood_tempest": "Blood Tempest",
+  "modifier.tinkersdragons.blood_tempest.flavor": "The thunder of Raevyx condenses into a sanguine storm here",
+  "modifier.tinkersdragons.blood_tempest.description": "Grants effects of Blood Tempest tool or armor",
+  "modifier.tinkersdragons.blood_tempest.requirements": "\"Blood Tempest\" can only be applied to tools made with Dragonheart Alloy",
+  "modifier.tinkersdragons.blood_tempest.attack_damage": "Damage to Raevyx",
+
+  "modifier.tinkersdragons.dragonlord": "Dragonlord",
+  "modifier.tinkersdragons.dragonlord.flavor": "Dragons, are the very symbol of load!",
+  "modifier.tinkersdragons.dragonlord.description": "Grants effects of Dragonlord tool or armor",
+  "modifier.tinkersdragons.dragonlord.requirements": "\"Dragonlord\" can only be applied to tools made with Dragonheart Alloy",
+  "modifier.tinkersdragons.dragonlord.attack_damage": "Damage to Ignivorus"
+}
