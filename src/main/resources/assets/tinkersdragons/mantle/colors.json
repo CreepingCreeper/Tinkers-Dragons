@@ -1,0 +1,17 @@
+{
+  "modifier.tinkersdragons": {
+    "malevolent_flesh": "#606060",
+    "toxin": "#8b9bb1",
+    "dragonslayer": "#f8a44e",
+    "dragonrage": "#e16157",
+    "dragonsoul": "#e16157",
+    "blood_tempest": "#bb1212",
+    "dragonlord": "#6f220e"
+  },
+  "material.tinkersdragons": {
+    "draconian": "#606060",
+    "volitans_spine": "#8b9bb1",
+    "worldroot": "#f8a44e",
+    "dragonheart_alloy": "#e16157"
+  }
+}

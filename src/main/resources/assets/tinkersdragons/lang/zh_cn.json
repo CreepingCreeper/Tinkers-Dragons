@@ -1,0 +1,85 @@
+{
+  "itemGroup.tinkersdragons.common": "工匠群龙",
+
+  "item.tinkersdragons.worldroot_nugget": "世界之根粒",
+  "item.tinkersdragons.dragonheart_alloy_nugget": "龙心合金粒",
+
+  "block.tinkersdragons.molten_worldroot_fluid": "熔融世界之根",
+  "fluid.tinkersdragons.molten_worldroot": "熔融世界之根",
+  "fluid.tinkersdragons.flowing_molten_worldroot": "流动的熔融世界之根",
+  "item.tinkersdragons.molten_worldroot_bucket": "熔融世界之根桶",
+
+  "block.tinkersdragons.molten_ancient_dragonite_fluid": "熔融远古龙骸",
+  "fluid.tinkersdragons.molten_ancient_dragonite": "熔融远古龙骸",
+  "fluid.tinkersdragons.flowing_molten_ancient_dragonite": "流动的熔融远古龙骸",
+  "item.tinkersdragons.molten_ancient_dragonite_bucket": "熔融远古龙骸桶",
+
+  "block.tinkersdragons.molten_dragonheart_fluid": "熔融龙心",
+  "fluid.tinkersdragons.molten_dragonheart": "熔融龙心",
+  "fluid.tinkersdragons.flowing_molten_dragonheart": "流动的熔融龙心",
+  "item.tinkersdragons.molten_dragonheart_bucket": "熔融龙心桶",
+
+  "block.tinkersdragons.molten_dragonheart_alloy_fluid": "熔融龙心合金",
+  "fluid.tinkersdragons.molten_dragonheart_alloy": "熔融龙心合金",
+  "fluid.tinkersdragons.flowing_molten_dragonheart_alloy": "流动的熔融龙心合金",
+  "item.tinkersdragons.molten_dragonheart_alloy_bucket": "熔融龙心合金桶",
+
+  "block.tinkersdragons.dragon_breath_fluid": "龙息",
+  "fluid.tinkersdragons.dragon_breath": "龙息",
+  "fluid.tinkersdragons.flowing_dragon_breath": "流动的龙息",
+  "item.tinkersdragons.dragon_breath_bucket": "龙息桶",
+
+  "block.tinkersdragons.ignivorus_blood_fluid": "噬焰之血",
+  "fluid.tinkersdragons.ignivorus_blood": "噬焰之血",
+  "fluid.tinkersdragons.flowing_ignivorus_blood": "流动的噬焰之血",
+  "item.tinkersdragons.ignivorus_blood_bucket": "噬焰之血桶",
+
+  "material.tinkersdragons.draconian": "孽煞",
+  "material.tinkersdragons.draconian.flavor": "不清楚那些家伙的肉体怎么能和史莱姆一样抗打击的，难道这是趋同演化？",
+  "material.tinkersdragons.draconian.encyclopedia": "每级+25%对龙类生物的伤害",
+
+  "material.tinkersdragons.volitans_spine": "蓑鲉龙脊刺",
+  "material.tinkersdragons.volitans_spine.flavor": "充满腐烂气息的脊刺",
+  "material.tinkersdragons.volitans_spine.encyclopedia": "每级+25%对龙类生物的伤害",
+
+  "material.tinkersdragons.worldroot": "世界之根",
+  "material.tinkersdragons.worldroot.flavor": "亘古之前遗留下的不变之物，虽然比不上龙钢",
+  "material.tinkersdragons.worldroot.encyclopedia": "每级+25%对龙类生物的伤害",
+
+  "material.tinkersdragons.dragonheart_alloy": "龙心合金",
+  "material.tinkersdragons.dragonheart_alloy.flavor": "远古巨龙的遗留之物，蕴含的咆哮和龙威至今令人心悸",
+  "material.tinkersdragons.dragonheart_alloy.encyclopedia": "+1攻击范围和触及范围，+25%暴击伤害",
+  "material.tinkersdragons.dragonheart_alloy.ranged": "空中时+1弹射物力量",
+  "material.tinkersdragons.dragonheart_alloy.armor": "+25爆炸抗性和火焰抗性",
+
+  "modifier.tinkersdragons.dragonslayer": "狩龙",
+  "modifier.tinkersdragons.dragonslayer.flavor": "与龙同样亘古不变，才能真正的打败龙",
+  "modifier.tinkersdragons.dragonslayer.description": "增加对龙类生物的伤害",
+  "modifier.tinkersdragons.dragonslayer.attack_damage": "对龙类生物伤害",
+
+  "modifier.tinkersdragons.malevolent_flesh": "恶透骨肉",
+  "modifier.tinkersdragons.malevolent_flesh.flavor": "那好哇，它趋同演化我也趋同演化",
+  "modifier.tinkersdragons.malevolent_flesh.description": "获得对应孽煞盔甲的效果",
+
+  "modifier.tinkersdragons.toxin": "腐毒",
+  "modifier.tinkersdragons.toxin.flavor": "脊刺上充满腐烂气息的毒素",
+  "modifier.tinkersdragons.toxin.description": "造成失明和中毒Ⅱ效果",
+
+  "modifier.tinkersdragons.dragonrage": "龙吼",
+  "modifier.tinkersdragons.dragonrage.flavor": "你敢答应吗？",
+  "modifier.tinkersdragons.dragonrage.description": "增加攻击范围、触及范围和暴击伤害",
+  "modifier.tinkersdragons.dragonsoul": "龙魂",
+  "modifier.tinkersdragons.dragonsoul.flavor": "生于火焰，死于爆裂",
+  "modifier.tinkersdragons.dragonsoul.description": "增加火焰抗性和爆炸抗性",
+
+  "modifier.tinkersdragons.blood_tempest": "血缠风暴",
+  "modifier.tinkersdragons.blood_tempest.flavor": "殷雷龙的雷霆化作血色风暴，凝聚于此",
+  "modifier.tinkersdragons.blood_tempest.description": "获得对应血缠风暴武器或盔甲的效果",
+  "modifier.tinkersdragons.blood_tempest.requirements": "“血缠风暴”只能加持在使用龙心合金材料的工具上",
+  "modifier.tinkersdragons.blood_tempest.attack_damage": "对殷雷龙伤害",
+  "modifier.tinkersdragons.dragonlord": "龙疆霸王",
+  "modifier.tinkersdragons.dragonlord.flavor": "龙，那可是帝王之征啊！",
+  "modifier.tinkersdragons.dragonlord.description": "获得对应龙疆霸王武器或盔甲的效果",
+  "modifier.tinkersdragons.dragonlord.requirements": "“龙疆霸王”只能加持在使用龙心合金材料的工具上",
+  "modifier.tinkersdragons.dragonlord.attack_damage": "对噬焰龙伤害"
+}
