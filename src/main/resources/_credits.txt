@@ -1,0 +1,3 @@
+logo.png use Fusion Pixel Font
+ -- https://github.com/TakWolf/fusion-pixel-font/blob/master/LICENSE-OFL
+ -- License: SIL OPEN FONT LICENSE Version 1.1

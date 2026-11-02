@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "com/creeping_creeper/tinkersdragons/mixins/BloodTempestKatanaAbilityMixin": {
+      "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+    },
+    "com/creeping_creeper/tinkersdragons/mixins/DragonlordSwordAbilityMixin": {
+      "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+    },
+    "com/creeping_creeper/tinkersdragons/mixins/DragonRideInputHandlerMixin": {
+      "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/creeping_creeper/tinkersdragons/mixins/BloodTempestKatanaAbilityMixin": {
+        "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+      },
+      "com/creeping_creeper/tinkersdragons/mixins/DragonlordSwordAbilityMixin": {
+        "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+      },
+      "com/creeping_creeper/tinkersdragons/mixins/DragonRideInputHandlerMixin": {
+        "Lnet/minecraft/world/item/ItemStack;is(Lnet/minecraft/world/item/Item;)Z": "Lnet/minecraft/world/item/ItemStack;m_150930_(Lnet/minecraft/world/item/Item;)Z"
+      }
+    }
+  }
+}

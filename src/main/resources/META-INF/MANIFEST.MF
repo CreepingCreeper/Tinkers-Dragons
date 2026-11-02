@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: tinkersdragons
+Specification-Vendor: creeping_creeper
+Specification-Version: 2
+Implementation-Title: Tinkers' Dragons
+Implementation-Version: 1.0.0
+Implementation-Vendor: creeping_creeper
+Implementation-Timestamp: 2026-10-11T20:57:13+0800
+MixinConfigs: tinkersdragons.mixins.json
+
